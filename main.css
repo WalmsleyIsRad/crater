@@ -1,0 +1,21 @@
+body{
+background-image: url("https://userscontent2.emaze.com/images/36e1897f-aa9e-4d86-8ed6-fb693a4d9d6c/ae02c579-b472-4a81-88ed-c6badcbc159c.png");
+background-repeat: no-repeat;
+background-position: default;
+background-attachment: fixed;
+}
+
+.banner_item{
+color:gray;
+display:incline;
+}
+#banner{
+background-color:#657987;
+}
+
+a{
+color:white;
+text-decoration:none;
+font-size: 16pt;
+padding:5px;
+}
