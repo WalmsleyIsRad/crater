@@ -1,8 +1,9 @@
 body{
-background-image: url("https://userscontent2.emaze.com/images/36e1897f-aa9e-4d86-8ed6-fb693a4d9d6c/ae02c579-b472-4a81-88ed-c6badcbc159c.png");
+background-image: url("https://specials-images.forbesimg.com/dam/imageserve/765877054/960x0.jpg?fit=scale");
 background-repeat: no-repeat;
 background-position: default;
 background-attachment: fixed;
+background-size: cover;
 }
 
 .banner_item{
@@ -13,9 +14,21 @@ display:incline;
 background-color:#657987;
 }
 
-a{
-color:white;
+h1{
+color:yellow;
 text-decoration:none;
-font-size: 16pt;
+font-size: 26pt;
 padding:5px;
+}
+
+h3{
+color:yellow;
+text-decoration:none;
+font-size: 22pt;
+padding:5px;
+}
+
+img {
+height:50%;
+width:50%;
 }
